@@ -1,9 +1,9 @@
 ---
 home: true
 heroImage: ./abstract-online-shopping.png
-tagline: Financial empowerment at the tip of your fingers
+tagline: Financial planning at your fingertips
 actionText: Join the Waitlist →
-actionLink: /guide/
+actionLink: https://forms.gle/xJ7m8JgojAc6aKmf9
 features:
 - title: Profile
   details: Create a profile to track your progress

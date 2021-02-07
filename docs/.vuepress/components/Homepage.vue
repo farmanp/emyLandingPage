@@ -10,7 +10,7 @@
               Join us on
               <a href="https://denver-devs.slack.com">Slack</a>
             </h3>
-            <SlackInvite></SlackInvite>
+            <!-- <SlackInvite></SlackInvite> -->
             <p class="coc-notice">
               By joining, you agree to our
               <a href="/resources/rules/">Rules</a> and

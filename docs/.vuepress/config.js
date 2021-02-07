@@ -16,26 +16,24 @@ module.exports = {
    */
   themeConfig: {
     search: false,
-    repo: "farmanp/emyLandingPage",
-    repoLabel:"Github",
     editLinks: false,
     docsDir: "docs",
     editLinkText: '',
     lastUpdated: false,
-    nav: [
-      {
-        text: "Home", 
-        link: "/"
-      },
-      {
-        text: "App",
-        link: "/guide/",
-      },
-      {
-        text: "Research",
-        link: "/config/"
-      }
-    ],
+    // nav: [
+    //   {
+    //     text: "Home", 
+    //     link: "/"
+    //   },
+    //   {
+    //     text: "App",
+    //     link: "/guide/",
+    //   },
+    //   {
+    //     text: "Research",
+    //     link: "/config/"
+    //   }
+    // ],
     sidebar: {
       '/guide/': [
         {

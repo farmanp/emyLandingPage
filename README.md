@@ -1,2 +1,3 @@
-# emyLandingPage
-Landing page for Emy
+# Emy CMS
+
+Blog site for the Emy site
